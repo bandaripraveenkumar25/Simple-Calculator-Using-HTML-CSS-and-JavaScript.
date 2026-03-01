@@ -2,6 +2,7 @@
 Created simple calculator using HTML, CSS, and JavaScript.
 
 Features:
+
 ✅ Basic Operations: Addition (+), Subtraction (-), Multiplication (×), Division (÷)
 
 ✅ Number Input: Digits 0-9 and decimal point support
